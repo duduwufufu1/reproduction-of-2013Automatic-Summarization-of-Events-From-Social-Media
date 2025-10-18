@@ -2,6 +2,7 @@
 
 ## 项目结构说明
 
+```
 complete_2013Auto/
 ├── main.py                    # 主程序
 ├── data_loader.py            # 数据加载器
@@ -11,3 +12,4 @@ complete_2013Auto/
 ├── summarizer.py             # 摘要生成器
 ├── evaluator.py              # 评估器
 └── utils.py                  # 工具函数
+```
